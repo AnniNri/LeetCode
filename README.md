@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnniNri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Hash Table
 |  |
@@ -66,5 +67,10 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AnniNri/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Matrix
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
