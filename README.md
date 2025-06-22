@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnniNri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AnniNri/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnniNri/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AnniNri/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnniNri/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AnniNri/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AnniNri/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
