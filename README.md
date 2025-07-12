@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AnniNri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnniNri/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AnniNri/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
 |  |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AnniNri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnniNri/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Tree
 |  |
 | ------- |
