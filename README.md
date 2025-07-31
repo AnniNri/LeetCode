@@ -13,6 +13,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AnniNri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnniNri/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AnniNri/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnniNri/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnniNri/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnniNri/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnniNri/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnniNri/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnniNri/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnniNri/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
