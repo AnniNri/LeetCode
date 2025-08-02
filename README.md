@@ -47,6 +47,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AnniNri/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnniNri/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/AnniNri/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2689-rearranging-fruits](https://github.com/AnniNri/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnniNri/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AnniNri/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnniNri/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -63,6 +64,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnniNri/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnniNri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/AnniNri/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2689-rearranging-fruits](https://github.com/AnniNri/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnniNri/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnniNri/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnniNri/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -82,6 +84,7 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnniNri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnniNri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2689-rearranging-fruits](https://github.com/AnniNri/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnniNri/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnniNri/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AnniNri/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -163,6 +166,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnniNri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnniNri/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/AnniNri/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2689-rearranging-fruits](https://github.com/AnniNri/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnniNri/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Queue
 |  |
