@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnniNri/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AnniNri/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AnniNri/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -13,6 +14,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AnniNri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnniNri/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/AnniNri/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
