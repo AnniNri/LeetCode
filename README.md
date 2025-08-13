@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnniNri/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AnniNri/LeetCode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnniNri/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AnniNri/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -236,6 +237,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnniNri/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/AnniNri/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AnniNri/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnniNri/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
