@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/AnniNri/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnniNri/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnniNri/LeetCode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnniNri/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AnniNri/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/AnniNri/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AnniNri/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/AnniNri/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnniNri/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnniNri/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -239,6 +241,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AnniNri/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/AnniNri/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnniNri/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnniNri/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnniNri/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
