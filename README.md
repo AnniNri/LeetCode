@@ -9,6 +9,7 @@
 | [0342-power-of-four](https://github.com/AnniNri/LeetCode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnniNri/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/AnniNri/LeetCode/tree/master/1448-maximum-69-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AnniNri/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AnniNri/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AnniNri/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -96,6 +97,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/AnniNri/LeetCode/tree/master/1448-maximum-69-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnniNri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnniNri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2689-rearranging-fruits](https://github.com/AnniNri/LeetCode/tree/master/2689-rearranging-fruits) |
