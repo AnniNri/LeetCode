@@ -22,6 +22,7 @@
 | ------- |
 | [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AnniNri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnniNri/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AnniNri/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -48,6 +49,7 @@
 | [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnniNri/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnniNri/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AnniNri/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1813-maximum-erasure-value](https://github.com/AnniNri/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnniNri/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AnniNri/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnniNri/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
@@ -198,6 +201,7 @@
 ## Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnniNri/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
 |  |
@@ -272,4 +276,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
