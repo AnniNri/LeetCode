@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnniNri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0287-find-the-duplicate-number](https://github.com/AnniNri/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0679-24-game](https://github.com/AnniNri/LeetCode/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnniNri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/AnniNri/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0940-fruit-into-baskets](https://github.com/AnniNri/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/AnniNri/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -155,6 +157,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnniNri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AnniNri/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
