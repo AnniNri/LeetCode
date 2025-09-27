@@ -9,6 +9,7 @@
 | [0342-power-of-four](https://github.com/AnniNri/LeetCode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/AnniNri/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/AnniNri/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnniNri/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/AnniNri/LeetCode/tree/master/1448-maximum-69-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AnniNri/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -46,6 +47,7 @@
 | [0036-valid-sudoku](https://github.com/AnniNri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0287-find-the-duplicate-number](https://github.com/AnniNri/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0679-24-game](https://github.com/AnniNri/LeetCode/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/AnniNri/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/AnniNri/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -303,6 +305,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/AnniNri/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnniNri/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
 |  |
