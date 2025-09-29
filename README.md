@@ -25,6 +25,7 @@
 | ------- |
 | [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/AnniNri/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AnniNri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnniNri/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -54,6 +55,7 @@
 | [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/AnniNri/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/AnniNri/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/AnniNri/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnniNri/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnniNri/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
