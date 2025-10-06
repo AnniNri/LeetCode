@@ -51,6 +51,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AnniNri/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AnniNri/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0679-24-game](https://github.com/AnniNri/LeetCode/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/AnniNri/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/AnniNri/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AnniNri/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AnniNri/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnniNri/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnniNri/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AnniNri/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/AnniNri/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnniNri/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AnniNri/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -182,6 +185,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnniNri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AnniNri/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/AnniNri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AnniNri/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -208,6 +212,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnniNri/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnniNri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnniNri/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnniNri/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -237,6 +242,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/AnniNri/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnniNri/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AnniNri/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -323,4 +329,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AnniNri/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
