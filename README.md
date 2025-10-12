@@ -21,6 +21,7 @@
 | [3336-water-bottles-ii](https://github.com/AnniNri/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnniNri/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnniNri/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AnniNri/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,10 +37,12 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AnniNri/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnniNri/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnniNri/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AnniNri/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AnniNri/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AnniNri/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AnniNri/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnniNri/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnniNri/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AnniNri/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +289,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnniNri/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AnniNri/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnniNri/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AnniNri/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -333,4 +338,8 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AnniNri/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
