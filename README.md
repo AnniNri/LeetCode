@@ -86,6 +86,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnniNri/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AnniNri/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnniNri/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AnniNri/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnniNri/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AnniNri/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AnniNri/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -222,6 +223,7 @@
 | [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnniNri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnniNri/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AnniNri/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnniNri/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
