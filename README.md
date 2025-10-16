@@ -16,6 +16,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/AnniNri/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AnniNri/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AnniNri/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AnniNri/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AnniNri/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnniNri/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/AnniNri/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -80,6 +81,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnniNri/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AnniNri/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/AnniNri/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AnniNri/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/AnniNri/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnniNri/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AnniNri/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -109,6 +111,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnniNri/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnniNri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/AnniNri/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AnniNri/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/AnniNri/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AnniNri/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnniNri/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -137,6 +140,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/AnniNri/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnniNri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnniNri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AnniNri/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/AnniNri/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnniNri/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnniNri/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
