@@ -90,6 +90,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AnniNri/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnniNri/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AnniNri/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnniNri/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnniNri/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AnniNri/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AnniNri/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -230,6 +231,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnniNri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnniNri/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AnniNri/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnniNri/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnniNri/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
@@ -246,6 +248,7 @@
 | [2689-rearranging-fruits](https://github.com/AnniNri/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnniNri/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnniNri/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnniNri/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -275,12 +278,14 @@
 | [0940-fruit-into-baskets](https://github.com/AnniNri/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/AnniNri/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnniNri/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnniNri/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnniNri/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AnniNri/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnniNri/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnniNri/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AnniNri/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Simulation
 |  |
