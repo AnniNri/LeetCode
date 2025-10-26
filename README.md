@@ -75,6 +75,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AnniNri/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1813-maximum-erasure-value](https://github.com/AnniNri/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/AnniNri/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2169-simple-bank-system](https://github.com/AnniNri/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnniNri/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnniNri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnniNri/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -115,6 +116,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AnniNri/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/AnniNri/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AnniNri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2169-simple-bank-system](https://github.com/AnniNri/LeetCode/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AnniNri/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnniNri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/AnniNri/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -300,6 +302,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/AnniNri/LeetCode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AnniNri/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/AnniNri/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/AnniNri/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -372,4 +375,8 @@
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AnniNri/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AnniNri/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/AnniNri/LeetCode/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
