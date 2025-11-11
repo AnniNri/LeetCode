@@ -31,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/AnniNri/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/AnniNri/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnniNri/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AnniNri/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -63,6 +64,7 @@
 | [0036-valid-sudoku](https://github.com/AnniNri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0287-find-the-duplicate-number](https://github.com/AnniNri/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AnniNri/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/AnniNri/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0679-24-game](https://github.com/AnniNri/LeetCode/tree/master/0679-24-game) |
 | [0794-swim-in-rising-water](https://github.com/AnniNri/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/AnniNri/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AnniNri/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0474-ones-and-zeroes](https://github.com/AnniNri/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/AnniNri/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AnniNri/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnniNri/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
