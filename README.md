@@ -83,6 +83,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnniNri/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AnniNri/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnniNri/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1590-make-sum-divisible-by-p](https://github.com/AnniNri/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnniNri/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AnniNri/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AnniNri/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -135,6 +136,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/AnniNri/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AnniNri/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AnniNri/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/AnniNri/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/AnniNri/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AnniNri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2169-simple-bank-system](https://github.com/AnniNri/LeetCode/tree/master/2169-simple-bank-system) |
@@ -330,6 +332,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/AnniNri/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnniNri/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2625-increment-submatrices-by-one](https://github.com/AnniNri/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AnniNri/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
